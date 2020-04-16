@@ -142,7 +142,7 @@ Technical Program Committee Member, 2017 IEEE 86th Vehicular Technology Conferen
 
 <p></p>
 
-<p></p>
+
 
 
 
@@ -184,7 +184,7 @@ to appear in IEEE Transactions on Industrial Informatics.
  43. Zhigao Zheng, Tao Wang, <b>Jinming Wen*</b>,Shahid Mumtaz, Ali Kashif Bashir and Sajjad Hussain Chauhdary, 
   <a href="https://ieeexplore.ieee.org/document/8911204">
 Differentially Private High-Dimensional Data Publication in Internet of Things,
-to appear in IEEE Internet of Things Journal.
+IEEE Internet of Things Journal, 7(2020), pp. 2640-2650.
     <p></p>
    
 <a name="item5"></a>

@@ -140,7 +140,7 @@ Technical Program Committee Member, 2017 IEEE Global Communications Conference: 
 
 Technical Program Committee Member, 2017 IEEE 86th Vehicular Technology Conference (Fall): Multiple Antenna Systems and Cooperative Communications
 
-<p></p>
+<p>
 
 
 

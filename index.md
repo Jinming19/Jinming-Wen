@@ -2,9 +2,6 @@
 
 
 
-<title>Jinming Wen</title>
-
-</head>
 
 
 
@@ -20,7 +17,6 @@
 
 
 
-</p>
 
 <h3>Contact</h3>
 

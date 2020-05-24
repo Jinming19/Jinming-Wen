@@ -49,9 +49,9 @@ Guangzhou City, Guangdong Province, China<br></dd>
  <h3>Working Experiences </h3>
  
  2018.09--, <a href="https://xxxy2016.jnu.edu.cn/Item/2997.aspx"> Professor</a>, Jinan University <br>
- 2017.09--2018.08, Postdoc fellow, </a> University of Toronto, working  with <a href="http://www.comm.utoronto.ca/~weiyu/">Prof. Wei Yu</a><br>
- 2016.09--2017.08, Postdoc fellow, </a> University of Alberta, working  with <a href="http://www.ece.ualberta.ca/~chintha/">Prof. Chintha Tellambura</a><br>
- 2015.03--2016.08, Postdoc fellow, </a> CNRS, working  with <a href="http://perso.ens-lyon.fr/damien.stehle/">Prof. Damine Stehle</a> and
+ 2017.09--2018.08, Postdoc fellow, University of Toronto, working  with <a href="http://www.comm.utoronto.ca/~weiyu/">Prof. Wei Yu</a><br>
+ 2016.09--2017.08, Postdoc fellow, University of Alberta, working  with <a href="http://www.ece.ualberta.ca/~chintha/">Prof. Chintha Tellambura</a><br>
+ 2015.03--2016.08, Postdoc fellow, CNRS, working  with <a href="http://perso.ens-lyon.fr/damien.stehle/">Prof. Damine Stehle</a> and
  <a href="http://perso.ens-lyon.fr/gilles.villard/">Prof. Gilles Villard</a> 
  
 <h3>Education Background </h3>
@@ -77,7 +77,7 @@ The relevant mathematics include statistical theory, applied linear algebra, con
 <h3>Academic Services </h3>
 
 <a name="item5"></a>
-Associate Editor, IEEE Access
+Associate Editor, IEEE Access, IET Quantum Communications
 
 
 
@@ -372,7 +372,7 @@ Successive Two-Way Relaying for Full-Duplex Users with Generalized Self-Interfer
  18(2019), 63-76.
 </p><p>
  
- </a>
+ 
 23. <b>Jinming Wen</b>, Keyu Wu, Chintha Tellambura and Pingzhi Fan.
  <a href="https://ieeexplore.ieee.org/document/8500759">
 Closed-Form Word Error Rate Analysis for Successive Interference Cancellation Decoders, 
